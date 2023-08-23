@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirsmee56
-- 👀 I’m interested in web developering
-- 🌱 I’m currently learning HTML , MCSE , CSS
+- 👀 I’m interested in web developering , ethical hacking
+- 🌱 I’m currently learning HTML,CSS,javascript,python,networking,CCNA,MCSE,CEH,...
 - 💞️ I’m looking to collaborate on teamwork
 - 📫 How to reach me amir.ramsar.lor@gmail.com
 
